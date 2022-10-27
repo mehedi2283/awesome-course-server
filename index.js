@@ -33,7 +33,7 @@ app.get('/categories', (req, res) => {
     console.log(id);
     const selected = checkout.find((n) => ( n._id === id));
     console.log(selected);
-    res.send();
+    res.send(selected);
   });
   
   app.listen(port, () => {
