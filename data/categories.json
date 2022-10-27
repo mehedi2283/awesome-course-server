@@ -1,0 +1,51 @@
+[
+    {
+      "_id": "1",
+      "price": "$3.99",
+      "ratings": "4.5",
+      "img": "https://elearning.org.bd/pluginfile.php/2858/course/overviewfiles/dccn.png",
+      "category_name": "Data Communications",
+      "details": "Data communications refers to the transmission of this digital data between two or more computers and a computer network or data network is a telecommunications network that allows computers to exchange data. The physical connection between networked computing devices is established using either cable media or wireless media. The best-known computer network is the Internet."
+    },
+    
+    {
+      "_id": "2",
+      "price": "$3.99",
+      "ratings": "4.5",
+      "img": "https://i.ytimg.com/vi/Qmt0QwzEmh0/maxresdefault.jpg",
+      "category_name": "Data Structures",
+      "details": "A data structure is a storage that is used to store and organize data. It is a way of arranging data on a computer so that it can be accessed and updated efficiently."
+    },
+    {
+        "_id": "3",
+        "price": "$3.99",
+        "ratings": "4.5",
+        "img": "https://miro.medium.com/max/1400/1*HLGtY6O2vUHqIyEbWdmBgA.jpeg",
+        "category_name": "Programming Language",
+        "details": "A programming language is a system of notation for writing computer programs.[1] Most programming languages are text-based formal languages, but they may also be graphical. They are a kind of computer language."
+      },
+    {
+      "_id": "4",
+      "price": "$3.99",
+      "ratings": "4.5",
+      "img": "https://www.investopedia.com/thmb/n4b2twy7L9lZcmsUkMRlRhzjJ88=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/algorithm-8507b849b8ee48e5887fda56916dd037.png",
+      "category_name": "Algorithms",
+      "details": "The word Algorithm means ” A set of finite rules or instructions to be followed in calculations or other problem-solving operations ” Or ” A procedure for solving a mathematical problem in a finite number of steps that frequently involves recursive operations”."
+    },
+    {
+      "_id": "5",
+      "price": "$3.99",
+      "ratings": "4.5",
+      "img": "https://lastmomenttuitions.com/wp-content/uploads/2019/08/dsc-mths.png",
+      "category_name": "Discrete Mathematics",
+      "details": "Discrete mathematics is the study of mathematical structures that can be considered 'discrete' (in a way analogous to discrete variables, having a bijection with the set of natural numbers) rather than 'continuous' (analogously to continuous functions). Objects studied in discrete mathematics include integers, graphs, and statements in logic.[1][2][3][4] By contrast, discrete mathematics excludes topics in 'continuous mathematics' such as real numbers, calculus or Euclidean geometry. "
+    },
+    {
+      "_id": "6",
+      "price": "$3.99",
+      "ratings": "4.5",
+      "img": "https://www.york.ac.uk/media/study/courses/undergraduate/electronics/Yellow-circuit-EE-crop1200.jpg",
+      "category_name": "Circuits and Electronics",
+      "details": "An electronic circuit is composed of individual electronic components, such as resistors, transistors, capacitors, inductors and diodes, connected by conductive wires or traces through which electric current can flow. It is a type of electrical circuit and to be referred to as electronic, rather than electrical, generally at least one active component must be present. The combination of components and wires allows various simple and complex operations to be performed: signals can be amplified, computations can be performed, and data can be moved from one place to another."
+    }
+  ]
