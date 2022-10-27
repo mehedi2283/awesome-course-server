@@ -12,9 +12,11 @@ const category = require('./data/categories.json')
 const details = require('./data/categories.json')
 const checkout = require('./data/categories.json')
 
+
 app.get('/course', (req, res) => {
     res.send(courses)
   })
+
 app.get('/categories', (req, res) => {
     res.send(category)
   })
